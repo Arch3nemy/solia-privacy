@@ -4,7 +4,7 @@ title: Solia Privacy Policy
 
 # Solia Privacy Policy
 
-**Last updated: 15 September 2026**
+**Last updated: 17 September 2026**
 
 Solia is a booking and shoot-day app for wedding photographers. This policy
 explains what happens to information in the app.
@@ -27,8 +27,17 @@ have typed.
 
 Your jobs, your clients' names and contact details, venues, fees, invoices,
 contracts, running orders, reference photos and your business details are
-stored only on your phone. We never receive them and cannot see them.
-Uninstalling the app deletes them.
+stored on your phone. We never receive them and cannot see them.
+
+**Android's own backup.** If you have Android backup turned on, Android may copy
+Solia's data — but not your reference photos — to your own Google account, so
+it can be restored if you change or lose your phone. Solia only allows this
+when Android can encrypt the backup end to end with your phone's screen lock, so
+neither Google nor we can read it. If your phone has no screen lock, Solia is
+left out of the backup. You control this in your phone's backup settings, and
+you can delete the backup from your Google account at any time.
+
+Uninstalling the app deletes the data on your phone.
 
 When you export a PDF or a backup file and share it — by email, messenger or
 any other app — it goes where you send it. We do not receive a copy.
